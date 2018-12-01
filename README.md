@@ -6,3 +6,4 @@ Copyright and licensing
 ===
 Copyright (c) 2016, [Robert Eisele](http://www.xarg.org/)
 Dual licensed under the MIT or GPL Version 2 licenses.
+
